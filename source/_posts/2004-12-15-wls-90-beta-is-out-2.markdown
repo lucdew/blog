@@ -1,0 +1,11 @@
+--- 
+layout: post
+title: WLS 9.0 beta is out
+wordpress_id: 129
+wordpress_url: http://www.dewavrin.info/?p=129
+categories: 
+- weblogic
+tags: []
+
+---
+<br />Only for Windows so far. <br />And it runs on J2SE 1.5<br />See [http://dev2dev.bea.com/products/wlserver90/index.jsp](http://dev2dev.bea.com/products/wlserver90/index.jsp)
