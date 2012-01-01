@@ -20,7 +20,6 @@ In case you don't have your own central repository and you'd like to version you
 </repository>
 {% endcodeblock %}
 The 'repository' directory should be versioned in your scm server but it also means that it should be checked out with your project. Also like any other repository, the dependencies will be copied in your local repository.
-
 -  **How to just copy files** ?It might be useful on a development machine to copy files while installing an artifact, for instance you might want to copy a JBoss datasource file to a JBoss profile to make sure it's deployed.  For this you can use the Maven resource plugins. For instance the following plugin statement will copy the datasource file to your JBoss server's default profile deployment directory if JBOSS_HOME environment library is defined (on the development machine) :
 {% codeblock lang:xml %}
 <profile>

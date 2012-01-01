@@ -8,7 +8,8 @@ categories:
 tags: []
 
 ---
-I decided to no longer post on my blog due to a serious lack of motivation, time and inspiring topics ;-). Of course, comments will now be closed.As a side note here are the titles of drafts that never turned into posts:-  Difficulty of choosing a Java web framework
+I decided to no longer post on my blog due to a serious lack of motivation, time and inspiring topics ;-). Of course, comments will now be closed.As a side note here are the titles of drafts that never turned into posts:
+-  Difficulty of choosing a Java web framework
 -  Seam managed persistence context and Spring
 -  Bye Bye computer book shelf
 -  Drools flow or jBPM4 ?
