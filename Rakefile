@@ -48,7 +48,7 @@ end
 #######################
 
 desc "Generate jekyll site"
-task :generate do
+task :generate => [:tags, :tag_cloud] do
   raise "### You haven't set anything up yet. First run `rake install` to set up an Octopress theme." unless File.directory?(source_dir)
   puts "## Generating Site with Jekyll"
   system "compass compile --css-dir #{source_dir}/stylesheets"
@@ -376,4 +376,65 @@ desc "list tasks"
 task :list do
   puts "Tasks: #{(Rake::Task.tasks - [Rake::Task[:list]]).join(', ')}"
   puts "(type rake -T for more detail)\n\n"
+end
+
+desc 'Generate tags pages'
+task :tags  => :tag_cloud do
+  puts "Generating tags..."
+  require 'rubygems'
+  require 'jekyll'
+  include Jekyll::Filters
+
+  options = Jekyll.configuration({})
+  site = Jekyll::Site.new(options)
+  site.read_posts('')
+
+  # Remove tags directory before regenerating
+  FileUtils.rm_rf("source/tags")
+
+  site.tags.sort.each do |tag, posts|
+    html = <<-HTML
+---
+layout: default
+title: "tagged: #{tag}"
+syntax-highlighting: yes
+---
+<h1>Posts tagged with "#{tag}"</h1>
+
+{% for post in site.tags.#{tag} %}
+  {% include archive_post.html %}
+{% endfor %}
+HTML
+
+    FileUtils.mkdir_p("source/tags/#{tag}")
+    File.open("source/tags/#{tag}/index.html", 'w+') do |file|
+      file.puts html
+    end
+  end
+  puts 'Done.'
+end
+
+desc 'Generate tags pages'
+task :tag_cloud do
+  puts 'Generating tag cloud...'
+  require 'rubygems'
+  require 'jekyll'
+  include Jekyll::Filters
+
+  options = Jekyll.configuration({})
+  site = Jekyll::Site.new(options)
+  site.read_posts('')
+
+  html = '<section><h1>Tags</h1><p>'
+  max_count = site.tags.map{|t,p| p.count}.max
+  site.tags.sort.each do |tag, posts|
+    s = posts.count
+    font_size = ((20 - 10.0*(max_count-s)/max_count)*2).to_i/2.0
+    html << "<a href=\"/tags/#{tag}\" title=\"Postings tagged #{tag}\" style=\"font-size: #{font_size}px; line-height:#{font_size}px\">#{tag}</a> "
+  end
+  html << "</p></section>"
+  File.open('source/_includes/custom/asides/tag_cloud.html', 'w+') do |file|
+    file.puts html
+  end
+  puts 'Done.'
 end

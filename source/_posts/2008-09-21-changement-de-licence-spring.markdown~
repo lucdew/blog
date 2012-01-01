@@ -29,6 +29,7 @@ En fait, j'ai en fait toujours été très satisfait de Spring Core et impressio
 
 Pour moi la + évidente :
 - **JavaEE 5 et les EJB 3**
+
 Et oui avec des conteneurs d'EJB en mode embedded pouvant être utilisés pour les tests et démarrant en quelques lignes de codes ( voir par exemple [OpenEJB ](http://openejb.apache.org)de la fondation Apache ou encore JBoss embedded ).  De + cette solution a l'immense mérite d'être standard.Maintenant techniquement, le mécanisme d'interception d'EJB 3 n'est pas aussi riche que celui proposé par Spring et son support d'AspectJ. Le mécanisme ne permet d'injecter uniquement des Ejbs ou des ressources JNDI. Mais au moins les tests sans déploiement sont possibles, le code simplifié et épuré. De +, Ejb 3.1 apportent aussi son lot de nouveautés comme l'annotation @Singleton ou la non-obligation de créer une interface métier.
 
 - **Guice**
