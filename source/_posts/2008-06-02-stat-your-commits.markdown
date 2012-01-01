@@ -46,6 +46,6 @@ I recently discover the [StatSCM](http://stat-scm.sourceforge.net/) maven plugin
 			</plugin>
 		</plugins>
 	</reporting>
-</pom>
+</pom>	
 {% endcodeblock %}
 And here some charts produced, like the number of LOC commited by each developer:[![Number of lines of code](http://www.dewavrin.info/resources/loc.png "Number of lines of code")](http://www.dewavrin.info/resources/loc.png)The  day commit activity:[![Commits activity](http://www.dewavrin.info/resources/commitsactivity.png "Commits activity")](http://www.dewavrin.info/resources/commitsactivity.png)Or the ration between files addition/modification:[![](http://www.dewavrin.info/resources/activity.png)](http://www.dewavrin.info/resources/activity.png)

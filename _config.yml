@@ -7,7 +7,7 @@ title: Luc Dewavrin's website
 subtitle: 
 author: Luc Dewavrin
 simple_search: http://google.com/search
-description:
+description: 
 
 # Default date format is "ordinal" (resulting in "July 22nd 2007")
 # You can customize the format as defined in
@@ -99,6 +99,3 @@ google_analytics_tracking_id: UA-1239956-1
 # Facebook Like
 facebook_like: false
 
-
-tag_page_layout: tag_page
-tag_page_dir: tag
