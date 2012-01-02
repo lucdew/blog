@@ -5,7 +5,8 @@ wordpress_id: 205
 wordpress_url: http://www.dewavrin.info/?p=205
 categories: 
 - weblogic
-tags: []
+tags:
+- weblogic
 
 ---
 

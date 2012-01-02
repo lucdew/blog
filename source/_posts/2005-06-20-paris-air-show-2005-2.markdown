@@ -5,7 +5,115 @@ wordpress_id: 207
 wordpress_url: http://www.dewavrin.info/?p=207
 categories: 
 - general
-tags: []
+tags:
+- misc
 
 ---
-<table><tr><td>Sunday June 19th photos</td></tr><tr><td>[![](http://www.jroller.com/resources/l/ldewavrin/IMG_1012.JPG)](http://www.jroller.com/resources/l/ldewavrin/IMG_1012.JPG)</td></tr><tr><td>A380 on the ground</td></tr><tr><td>[![](http://www.jroller.com/resources/l/ldewavrin/IMG_1014.JPG)](http://www.jroller.com/resources/l/ldewavrin/IMG_1014.JPG)</td></tr><tr><td>US F18</td></tr><tr><td>[![](http://www.jroller.com/resources/l/ldewavrin/IMG_1018.JPG)](http://www.jroller.com/resources/l/ldewavrin/IMG_1018.JPG)</td></tr><tr><td>US Apache</td></tr><tr><td>[![](http://www.jroller.com/resources/l/ldewavrin/IMG_1025.JPG)](http://www.jroller.com/resources/l/ldewavrin/IMG_1025.JPG)</td></tr><tr><td>Parachutes</td></tr><tr><td>[![](http://www.jroller.com/resources/l/ldewavrin/IMG_1053.JPG)](http://www.jroller.com/resources/l/ldewavrin/IMG_1053.JPG)</td></tr><tr><td>A380 in the air</td></tr><tr><td>[![](http://www.jroller.com/resources/l/ldewavrin/IMG_1064.JPG)](http://www.jroller.com/resources/l/ldewavrin/IMG_1064.JPG)</td></tr><tr><td>Rafale on the ground</td></tr><tr><td>[![](http://www.jroller.com/resources/l/ldewavrin/IMG_1065.JPG)](http://www.jroller.com/resources/l/ldewavrin/IMG_1065.JPG)</td></tr><tr><td>Russian Sukhoi</td></tr><tr><td>[![](http://www.jroller.com/resources/l/ldewavrin/IMG_1073.JPG)](http://www.jroller.com/resources/l/ldewavrin/IMG_1073.JPG)</td></tr><tr><td>F16 during demo</td></tr><tr><td>[![](http://www.jroller.com/resources/l/ldewavrin/IMG_1074.JPG)](http://www.jroller.com/resources/l/ldewavrin/IMG_1074.JPG)</td></tr><tr><td>What a fall !</td></tr></table>
+
+<table>
+<tr>
+<td>
+Sunday June 19th photos
+</td>
+</tr>
+<tr>
+<td>
+<a href="http://www.jroller.com/resources/l/ldewavrin/IMG_1012.JPG"><br />
+<img src="http://www.jroller.com/resources/l/ldewavrin/IMG_1012.JPG" border="0" width="200"></a>
+</td>
+</tr>
+<tr>
+<td>
+A380 on the ground
+</td>
+</tr>
+<tr>
+<td>
+<a href="http://www.jroller.com/resources/l/ldewavrin/IMG_1014.JPG"><br />
+<img src="http://www.jroller.com/resources/l/ldewavrin/IMG_1014.JPG" border="0" width="200"></a>
+</td>
+</tr>
+<tr>
+<td>
+US F18
+</td>
+</tr>
+<tr>
+<td>
+<a href="http://www.jroller.com/resources/l/ldewavrin/IMG_1018.JPG"><br />
+<img src="http://www.jroller.com/resources/l/ldewavrin/IMG_1018.JPG" border="0" width="200"></a>
+</td>
+</tr>
+<tr>
+<td>
+US Apache
+</td>
+</tr>
+<tr>
+<td>
+<a href="http://www.jroller.com/resources/l/ldewavrin/IMG_1025.JPG"><br />
+<img src="http://www.jroller.com/resources/l/ldewavrin/IMG_1025.JPG" border="0" width="200"></a>
+</td>
+</tr>
+<tr>
+<td>
+Parachutes
+</td>
+</tr>
+<tr>
+<td>
+<a href="http://www.jroller.com/resources/l/ldewavrin/IMG_1053.JPG"><br />
+<img src="http://www.jroller.com/resources/l/ldewavrin/IMG_1053.JPG" border="0" width="200"></a>
+</td>
+</tr>
+<tr>
+<td>
+A380 in the air
+</td>
+</tr>
+<tr>
+<td>
+<a href="http://www.jroller.com/resources/l/ldewavrin/IMG_1064.JPG"><br />
+<img src="http://www.jroller.com/resources/l/ldewavrin/IMG_1064.JPG" border="0" width="200"></a>
+</td>
+</tr>
+<tr>
+<td>
+Rafale on the ground
+</td>
+</tr>
+<tr>
+<td>
+<a href="http://www.jroller.com/resources/l/ldewavrin/IMG_1065.JPG"><br />
+<img src="http://www.jroller.com/resources/l/ldewavrin/IMG_1065.JPG" border="0" width="200"></a>
+</td>
+</tr>
+<tr>
+<td>
+Russian Sukhoi
+</td>
+</tr>
+<tr>
+<td>
+<a href="http://www.jroller.com/resources/l/ldewavrin/IMG_1073.JPG"><br />
+<img src="http://www.jroller.com/resources/l/ldewavrin/IMG_1073.JPG" border="0" width="200"></a>
+</td>
+</tr>
+<tr>
+<td>
+F16 during demo
+</td>
+</tr>
+<tr>
+<td>
+<a href="http://www.jroller.com/resources/l/ldewavrin/IMG_1074.JPG"><br />
+<img src="http://www.jroller.com/resources/l/ldewavrin/IMG_1074.JPG" border="0" width="200"></a>
+</td>
+</tr>
+<tr>
+<td>
+What a fall !
+</td>
+</tr>
+</table>
+

@@ -5,7 +5,8 @@ wordpress_id: 266
 wordpress_url: http://www.dewavrin.info/?p=266
 categories: 
 - general
-tags: []
+tags:
+- misc
 
 ---
 I decided to no longer post on my blog due to a serious lack of motivation, time and inspiring topics ;-). Of course, comments will now be closed. As a side note here are the titles of drafts that never turned into posts:
