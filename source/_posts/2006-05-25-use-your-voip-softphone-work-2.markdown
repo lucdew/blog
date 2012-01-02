@@ -9,6 +9,8 @@ tags:
 - asterisk
 - voip
 - vpn
+- security
+- firewall
 ---
 Some VOIP softphones like X-lite rely on [SIP](http://en.wikipedia.org/wiki/SIP) (connection) and [RTP](http://en.wikipedia.org/wiki/Real-time_Transport_Protocol) (voice) protocols which both work on top of UDP.
 
