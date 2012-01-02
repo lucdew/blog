@@ -60,9 +60,18 @@ The 'repository' directory should be versioned in your scm server but it also me
   </build>
 </profile>
 {% endcodeblock %}
-- **How to perform complex build build logic ?**One solution would be to use profiles for that like in the above example. But it can quickly become cumbersome and limited. So a good option is to use Ant Maven plugin with [ant-contribs](http://ant-contrib.sourceforge.net/) dependency for control statements and loops or even better the [groovy GMaven plugin](http://groovy.codehaus.org/GMaven) (avoiding XML verbosity).Profiles have still the benefit of clearly identifying an intent in your build. The following command will list all profiles:<pre>mvn help:all-profiles</pre>If build logic can be extracted and used in different contexts, it's time to create a plugin. It's quite simple.
-- **How to create an artifact of a zip or tar  ?**One obvious solution is to use maven assembly plugin but if you need to add some custom logic during packaging, you could just create the zip or tar file with Ant maven plugin or groovy GMaven plugin and gant during the package phase. Then attach the file to your project with Maven [build helper plugin](http://mojo.codehaus.org/build-helper-maven-plugin/attach-artifact-mojo.html) and its **attach-artifact** goal to install it in your repository during the install phase. Once installed in your local repository, the zip or tar file can be become a dependency, just use the proper type in the dependency declaration.
+- **How to perform complex build build logic ?**
+One solution would be to use profiles for that like in the above example. But it can quickly become cumbersome and limited. So a good option is to use Ant Maven plugin with [ant-contribs](http://ant-contrib.sourceforge.net/) dependency for control statements and loops or even better the [groovy GMaven plugin](http://groovy.codehaus.org/GMaven) (avoiding XML verbosity).Profiles have still the benefit of clearly identifying an intent in your build. The following command will list all profiles:
+{% codeblock %}
+mvn help:all-profiles
+{% endcodeblock %}
+
+If build logic can be extracted and used in different contexts, it's time to create a plugin. It's quite simple.
+
+- **How to create an artifact of a zip or tar  ?**
+One obvious solution is to use maven assembly plugin but if you need to add some custom logic during packaging, you could just create the zip or tar file with Ant maven plugin or groovy GMaven plugin and gant during the package phase. Then attach the file to your project with Maven [build helper plugin](http://mojo.codehaus.org/build-helper-maven-plugin/attach-artifact-mojo.html) and its **attach-artifact** goal to install it in your repository during the install phase. Once installed in your local repository, the zip or tar file can be become a dependency, just use the proper type in the dependency declaration.
 {% codeblock lang:xml %}
 <type>zip</type>
 {% endcodeblock %}
-- **How to create a full delivery layout with multiple archetype ?**My advice for creating a comprehensive delivery directory structure would be to use a dedicated module, take advantage of ant,assembly and resource plugins for that. Struts2 has such a module : [see the assembly module's pom](http://svn.apache.org/repos/asf/struts/struts2/trunk/assembly/pom.xml)
+- **How to create a full delivery layout with multiple archetype ?**
+My advice for creating a comprehensive delivery directory structure would be to use a dedicated module, take advantage of ant,assembly and resource plugins for that. Struts2 has such a module : [see the assembly module's pom](http://svn.apache.org/repos/asf/struts/struts2/trunk/assembly/pom.xml)

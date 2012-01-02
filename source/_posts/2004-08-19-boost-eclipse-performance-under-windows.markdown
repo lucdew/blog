@@ -5,7 +5,8 @@ wordpress_id: 134
 wordpress_url: http://www.dewavrin.info/?p=134
 categories: 
 - java
-tags: []
+tags:
+- eclipse
 
 ---
 

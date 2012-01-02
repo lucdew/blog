@@ -137,5 +137,8 @@ this.order = order;
 
 {% endcodeblock %}
 Here I made the assumption that the command (object that maps the HTTP submitted parameters)has been bound to user's session in the controller (Spring has mechanism to do this)and that the form's view first check that if the form's command is in the user's sessionit uses it to populate the form's fields.We'll also suppose that the controller's form view has a box that displays messages whenfound in the request context under the messages attribute (like flash boxes of ROR).
+
 <u>Conclusion:</u>
-AOP is the perfect tool to protect business components in a non-intrusive way.Thanks to Spring MVC framework techniques we can create a very flexible and genericway to handle authorizations and report authorization exceptions in our web layer. (using many of the Java EE cool buzz technos)_N.B:_Sorry for my poor English...
+AOP is the perfect tool to protect business components in a non-intrusive way.Thanks to Spring MVC framework techniques we can create a very flexible and genericway to handle authorizations and report authorization exceptions in our web layer. (using many of the Java EE cool buzz technos)
+
+_N.B:_ Sorry for my poor English...

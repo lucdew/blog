@@ -8,4 +8,4 @@ categories:
 tags: []
 
 ---
-<br /> Coming out this summer ... (I hope so)
+ Coming out this summer ... (I hope so)

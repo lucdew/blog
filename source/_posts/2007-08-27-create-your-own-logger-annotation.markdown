@@ -72,6 +72,7 @@ The key here is the pointcut definition with a @Before advice and the get pointc
   </executions>
 </plugin>
 {% endcodeblock %}
+
 Note that the aspect could be packaged in a dedicated library and woven to your classes (see [aspects libraries](http://mojo.codehaus.org/aspectj-maven-plugin/libraryJars.html)) for usage example.
 
-=&gt; Ok this example is only for demonstrative purpose and adds the overhead of reflection on every access to common's logging Log implementation getters !So it might not be a good idea after all due to performance penalty. But it's just a starting point for other annotations with aspects ideas to build your own framework.
+<p>=> Ok this example is only for demonstrative purpose and adds the overhead of reflection on every access to common's logging Log implementation getters !So it might not be a good idea after all due to performance penalty. But it's just a starting point for other annotations with aspects ideas to build your own framework.</p>

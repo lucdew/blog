@@ -8,4 +8,8 @@ categories:
 tags: []
 
 ---
-See the release note:[http://e-docs.bea.com/wls/docs81/notes/index.html](http://e-docs.bea.com/wls/docs81/note/index.html)<br />I am just wondering when [Weblogic](http://edocs.bea.com/wls/docs81/notes/issues.html "Known issues") server/platform n°9  will be released:when J2SE 5.0 will be out or when the EJB3 spec will be adopted ?<br /><br />BTW, Oracle seems to be more and more aggressive in their J2EE offering with their JDdevIDE and ADF framework. They also bought a company called Collaxa which offers a BPEL implementation in Java and I bet it&#39;ll soon be integrated into Jdev and OC4J.
+See the release note:[http://e-docs.bea.com/wls/docs81/notes/index.html](http://e-docs.bea.com/wls/docs81/note/index.html)
+
+I am just wondering when [Weblogic](http://edocs.bea.com/wls/docs81/notes/issues.html "Known issues") server/platform n°9  will be released:when J2SE 5.0 will be out or when the EJB3 spec will be adopted ?
+
+BTW, Oracle seems to be more and more aggressive in their J2EE offering with their JDdevIDE and ADF framework. They also bought a company called Collaxa which offers a BPEL implementation in Java and I bet it&#39;ll soon be integrated into Jdev and OC4J.
