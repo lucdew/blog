@@ -3,6 +3,7 @@ layout: post
 title: feelings after 1st Swing app development
 wordpress_id: 206
 wordpress_url: http://www.dewavrin.info/?p=206
+comments: true
 categories: 
 - java
 tags:

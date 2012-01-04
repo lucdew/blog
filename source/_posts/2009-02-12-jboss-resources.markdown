@@ -3,6 +3,7 @@ layout: post
 title: JBoss resources
 wordpress_id: 255
 wordpress_url: http://www.dewavrin.info/?p=255
+comments: true
 categories: 
 - java
 tags: []

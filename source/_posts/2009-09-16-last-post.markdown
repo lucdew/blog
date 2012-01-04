@@ -3,6 +3,7 @@ layout: post
 title: Last Post
 wordpress_id: 266
 wordpress_url: http://www.dewavrin.info/?p=266
+comments: true
 categories: 
 - general
 tags:

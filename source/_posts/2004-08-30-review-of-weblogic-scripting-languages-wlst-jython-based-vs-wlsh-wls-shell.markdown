@@ -3,6 +3,7 @@ layout: post
 title: Review of Weblogic scripting languages wlst (Jython based) vs wlsh ( WLS shell)
 wordpress_id: 133
 wordpress_url: http://www.dewavrin.info/?p=133
+comments: true
 categories: 
 - weblogic
 tags:

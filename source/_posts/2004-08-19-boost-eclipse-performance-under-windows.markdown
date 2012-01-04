@@ -3,6 +3,7 @@ layout: post
 title: Boost Eclipse performance under Windows
 wordpress_id: 134
 wordpress_url: http://www.dewavrin.info/?p=134
+comments: true
 categories: 
 - java
 tags:

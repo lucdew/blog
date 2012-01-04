@@ -3,6 +3,7 @@ layout: post
 title: Persistent Quartz Jobs with Spring
 wordpress_id: 201
 wordpress_url: http://www.dewavrin.info/?p=201
+comments: true
 categories: 
 - java
 tags:

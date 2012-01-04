@@ -3,6 +3,7 @@ layout: post
 title: Spring AOP and MVC authorization
 wordpress_id: 193
 wordpress_url: http://www.dewavrin.info/?p=193
+comments: true
 categories: 
 - java
 tags: 

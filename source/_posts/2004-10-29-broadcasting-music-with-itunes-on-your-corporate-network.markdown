@@ -3,6 +3,7 @@ layout: post
 title: Broadcasting music with Itunes on your corporate Network
 wordpress_id: 130
 wordpress_url: http://www.dewavrin.info/?p=130
+comments: true
 categories: 
 - general
 tags:

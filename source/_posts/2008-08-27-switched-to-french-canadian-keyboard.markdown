@@ -3,6 +3,7 @@ layout: post
 title: Switched to french canadian keyboard
 wordpress_id: 246
 wordpress_url: http://www.dewavrin.info/?p=246
+comments: true
 categories: 
 - tech
 tags: []

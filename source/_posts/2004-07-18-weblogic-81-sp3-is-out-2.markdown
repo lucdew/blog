@@ -3,6 +3,7 @@ layout: post
 title: Weblogic 8.1 sp3 is out
 wordpress_id: 136
 wordpress_url: http://www.dewavrin.info/?p=136
+comments: true
 categories: 
 - weblogic
 tags: []

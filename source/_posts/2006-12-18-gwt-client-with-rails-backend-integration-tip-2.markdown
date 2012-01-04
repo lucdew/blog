@@ -3,6 +3,7 @@ layout: post
 title: Gwt client with rails backend integration tip
 wordpress_id: 188
 wordpress_url: http://www.dewavrin.info/?p=188
+comments: true
 categories: 
 - java
 tags:

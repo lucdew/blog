@@ -3,6 +3,7 @@ layout: post
 title: Use your VOIP softphone @work
 wordpress_id: 191
 wordpress_url: http://www.dewavrin.info/?p=191
+comments: true
 categories: 
 - general
 tags: 
@@ -14,7 +15,7 @@ tags:
 ---
 Some VOIP softphones like X-lite rely on [SIP](http://en.wikipedia.org/wiki/SIP) (connection) and [RTP](http://en.wikipedia.org/wiki/Real-time_Transport_Protocol) (voice) protocols which both work on top of UDP.
 
-In previous posts ([1](http://www.jroller.com/page/ldewavrin/20050310) and [2](http://www.jroller.com/page/ldewavrin/20041029)), I explained how to create a tunnel between a machine in a corporate networkand an external machine (like your home machine). The solution was based on SOCKS capabilities of a ssh tunnel which can behave like a Socks proxy server (-D optionof openssh).
+In previous posts ([1](http://www.dewavrin.info/blog/passing-through-corporate-firewall) and [2](http://www.dewavrin.info/blog/passing-through-corporate-firewall-part2-2)), I explained how to create a tunnel between a machine in a corporate networkand an external machine (like your home machine). The solution was based on SOCKS capabilities of a ssh tunnel which can behave like a Socks proxy server (-D optionof openssh).
 
 With recent versions of openSSH, SOCKSv5 is even supported and therefore it becomespossible to tunnel UDP. Unfortunately, I haven't found any Socksv5 compliant VOIP softphone.
 
@@ -32,4 +33,4 @@ Anyway with vtun you'll be able to tunnel udp over a SSH tunnel. Beware that cre
 - 3) Configure and run vtun server on your home machine (See [this](http://www.linuxjournal.com/article/6675)).
 - 4) Also, configure and run vtun client on a Linux machine inside your corporate network.
 - 5) Configure routes properly to access the SIP proxy through your VPN ([asterisk server](http://www.asterisk.org/) at homeor Internet SIP server).
-- 6) Just configure your SIP phone as if you had direct access to the server (if you don't nat).![](http://www.jroller.com/resources/l/ldewavrin/xlite.JPG)
+- 6) Just configure your SIP phone as if you had direct access to the server (if you don't nat).![](/images/custom/xlite.JPG)

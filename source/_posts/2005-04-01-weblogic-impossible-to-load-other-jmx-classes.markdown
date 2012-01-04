@@ -3,6 +3,7 @@ layout: post
 title: Weblogic impossible to load other JMX  classes
 wordpress_id: 121
 wordpress_url: http://www.dewavrin.info/?p=121
+comments: true
 categories: 
 - weblogic
 tags:

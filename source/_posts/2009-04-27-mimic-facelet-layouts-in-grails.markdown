@@ -3,6 +3,7 @@ layout: post
 title: Mimic facelet layouts in grails
 wordpress_id: 262
 wordpress_url: http://www.dewavrin.info/?p=262
+comments: true
 categories: 
 - java
 - tech

@@ -3,6 +3,7 @@ layout: post
 title: Spring and Lingo = Easy JMS
 wordpress_id: 190
 wordpress_url: http://www.dewavrin.info/?p=190
+comments: true
 categories: 
 - java
 tags: 

@@ -3,6 +3,7 @@ layout: post
 title: Article on Spring and AOP
 wordpress_id: 200
 wordpress_url: http://www.dewavrin.info/?p=200
+comments: true
 categories: 
 - java
 tags:

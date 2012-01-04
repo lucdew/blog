@@ -3,6 +3,7 @@ layout: post
 title: Java on FreeBSD
 wordpress_id: 194
 wordpress_url: http://www.dewavrin.info/?p=194
+comments: true
 categories: 
 - java
 tags:

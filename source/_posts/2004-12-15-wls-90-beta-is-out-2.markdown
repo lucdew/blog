@@ -3,6 +3,7 @@ layout: post
 title: WLS 9.0 beta is out
 wordpress_id: 129
 wordpress_url: http://www.dewavrin.info/?p=129
+comments: true
 categories: 
 - weblogic
 tags:

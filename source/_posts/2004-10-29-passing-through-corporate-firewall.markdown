@@ -3,6 +3,7 @@ layout: post
 title: Passing through corporate firewall
 wordpress_id: 131
 wordpress_url: http://www.dewavrin.info/?p=131
+comments: true
 categories: 
 - java
 tags:

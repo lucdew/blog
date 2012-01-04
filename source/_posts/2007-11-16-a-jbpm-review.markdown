@@ -3,6 +3,7 @@ layout: post
 title: A jBPM review
 wordpress_id: 235
 wordpress_url: http://www.dewavrin.info/?p=235
+comments: true
 categories: 
 - java
 - tech

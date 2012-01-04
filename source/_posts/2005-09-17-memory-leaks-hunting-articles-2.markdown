@@ -3,6 +3,7 @@ layout: post
 title: Memory leaks hunting articles
 wordpress_id: 203
 wordpress_url: http://www.dewavrin.info/?p=203
+comments: true
 categories: 
 - weblogic
 tags:

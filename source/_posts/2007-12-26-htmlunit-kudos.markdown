@@ -3,6 +3,7 @@ layout: post
 title: htmlunit kudos
 wordpress_id: 236
 wordpress_url: http://www.dewavrin.info/?p=236
+comments: true
 categories: 
 - java
 - tech

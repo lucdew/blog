@@ -3,6 +3,7 @@ layout: post
 title: Seam 2.0 released
 wordpress_id: 234
 wordpress_url: http://www.dewavrin.info/?p=234
+comments: true
 categories: 
 - java
 tags: 

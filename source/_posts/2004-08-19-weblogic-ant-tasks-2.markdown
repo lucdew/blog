@@ -3,6 +3,7 @@ layout: post
 title: Weblogic ant tasks
 wordpress_id: 135
 wordpress_url: http://www.dewavrin.info/?p=135
+comments: true
 categories: 
 - weblogic
 tags:

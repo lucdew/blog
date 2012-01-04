@@ -3,6 +3,7 @@ layout: post
 title: A picture is worth a thousand words (my 2008 no interest techs list)
 wordpress_id: 239
 wordpress_url: http://www.dewavrin.info/?p=239
+comments: true
 categories: 
 - tech
 tags: []

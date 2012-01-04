@@ -3,6 +3,7 @@ layout: post
 title: Programmatic authentication in Tomcat
 wordpress_id: 111
 wordpress_url: http://www.dewavrin.info/?p=111
+comments: true
 categories: 
 - java
 tags:

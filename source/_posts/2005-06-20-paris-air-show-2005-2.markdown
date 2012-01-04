@@ -3,6 +3,7 @@ layout: post
 title: Paris Air show 2005
 wordpress_id: 207
 wordpress_url: http://www.dewavrin.info/?p=207
+comments: true
 categories: 
 - general
 tags:
@@ -18,8 +19,8 @@ Sunday June 19th photos
 </tr>
 <tr>
 <td>
-<a href="http://www.jroller.com/resources/l/ldewavrin/IMG_1012.JPG"><br />
-<img src="http://www.jroller.com/resources/l/ldewavrin/IMG_1012.JPG" border="0" width="200"></a>
+<a href="https://lh5.googleusercontent.com/-aIjP254YPo0/TwOnUNtJBiI/AAAAAAAAJeY/zwrlLBzGQMg/w500-h374-k/IMG_1012.JPG"><br />
+<img src="https://lh5.googleusercontent.com/-aIjP254YPo0/TwOnUNtJBiI/AAAAAAAAJeY/zwrlLBzGQMg/w500-h374-k/IMG_1012.JPG" border="0" width="200"></a>
 </td>
 </tr>
 <tr>
@@ -29,8 +30,8 @@ A380 on the ground
 </tr>
 <tr>
 <td>
-<a href="http://www.jroller.com/resources/l/ldewavrin/IMG_1014.JPG"><br />
-<img src="http://www.jroller.com/resources/l/ldewavrin/IMG_1014.JPG" border="0" width="200"></a>
+<a href="https://lh5.googleusercontent.com/-gM3Wlmvg68c/TwOnUt1bTRI/AAAAAAAAJeg/rbGhash6gWM/w302-h227-k/IMG_1014.JPG"><br />
+<img src="https://lh5.googleusercontent.com/-gM3Wlmvg68c/TwOnUt1bTRI/AAAAAAAAJeg/rbGhash6gWM/w302-h227-k/IMG_1014.JPG" border="0" width="200"></a>
 </td>
 </tr>
 <tr>
@@ -40,8 +41,8 @@ US F18
 </tr>
 <tr>
 <td>
-<a href="http://www.jroller.com/resources/l/ldewavrin/IMG_1018.JPG"><br />
-<img src="http://www.jroller.com/resources/l/ldewavrin/IMG_1018.JPG" border="0" width="200"></a>
+<a href="https://lh6.googleusercontent.com/-u04EnocrXls/TwOnXTqdTwI/AAAAAAAAJe4/wJX3gaNPq6I/w302-h227-k/IMG_1018.JPG"><br />
+<img src="https://lh6.googleusercontent.com/-u04EnocrXls/TwOnXTqdTwI/AAAAAAAAJe4/wJX3gaNPq6I/w302-h227-k/IMG_1018.JPG" border="0" width="200"></a>
 </td>
 </tr>
 <tr>
@@ -51,8 +52,8 @@ US Apache
 </tr>
 <tr>
 <td>
-<a href="http://www.jroller.com/resources/l/ldewavrin/IMG_1025.JPG"><br />
-<img src="http://www.jroller.com/resources/l/ldewavrin/IMG_1025.JPG" border="0" width="200"></a>
+<a href="https://lh4.googleusercontent.com/-uqbu1ktcSmA/TwOnXJZoC6I/AAAAAAAAJew/jubjjBflyv4/w303-h228-k/IMG_1025.JPG"><br />
+<img src="https://lh4.googleusercontent.com/-uqbu1ktcSmA/TwOnXJZoC6I/AAAAAAAAJew/jubjjBflyv4/w303-h228-k/IMG_1025.JPG" border="0" width="200"></a>
 </td>
 </tr>
 <tr>
@@ -62,8 +63,8 @@ Parachutes
 </tr>
 <tr>
 <td>
-<a href="http://www.jroller.com/resources/l/ldewavrin/IMG_1053.JPG"><br />
-<img src="http://www.jroller.com/resources/l/ldewavrin/IMG_1053.JPG" border="0" width="200"></a>
+<a href="https://lh3.googleusercontent.com/-mbZPXYBm4mM/TwOnWdPGGuI/AAAAAAAAJeo/oDSdC4hJMrg/w302-h227-k/IMG_1053.JPG"><br />
+<img src="https://lh3.googleusercontent.com/-mbZPXYBm4mM/TwOnWdPGGuI/AAAAAAAAJeo/oDSdC4hJMrg/w302-h227-k/IMG_1053.JPG" border="0" width="200"></a>
 </td>
 </tr>
 <tr>
@@ -73,8 +74,8 @@ A380 in the air
 </tr>
 <tr>
 <td>
-<a href="http://www.jroller.com/resources/l/ldewavrin/IMG_1064.JPG"><br />
-<img src="http://www.jroller.com/resources/l/ldewavrin/IMG_1064.JPG" border="0" width="200"></a>
+<a href="https://lh4.googleusercontent.com/-vgeflrusOnA/TwOnXlIaAbI/AAAAAAAAJfA/ANvKXEsq4m4/w302-h227-k/IMG_1064.JPG"><br />
+<img src="https://lh4.googleusercontent.com/-vgeflrusOnA/TwOnXlIaAbI/AAAAAAAAJfA/ANvKXEsq4m4/w302-h227-k/IMG_1064.JPG" border="0" width="200"></a>
 </td>
 </tr>
 <tr>
@@ -84,8 +85,8 @@ Rafale on the ground
 </tr>
 <tr>
 <td>
-<a href="http://www.jroller.com/resources/l/ldewavrin/IMG_1065.JPG"><br />
-<img src="http://www.jroller.com/resources/l/ldewavrin/IMG_1065.JPG" border="0" width="200"></a>
+<a href="https://lh5.googleusercontent.com/-tPcMB7oq7PA/TwOnYigL8zI/AAAAAAAAJfM/xHRZHgCDq-M/w303-h228-k/IMG_1065.JPG"><br />
+<img src="https://lh5.googleusercontent.com/-tPcMB7oq7PA/TwOnYigL8zI/AAAAAAAAJfM/xHRZHgCDq-M/w303-h228-k/IMG_1065.JPG" border="0" width="200"></a>
 </td>
 </tr>
 <tr>
@@ -95,8 +96,8 @@ Russian Sukhoi
 </tr>
 <tr>
 <td>
-<a href="http://www.jroller.com/resources/l/ldewavrin/IMG_1073.JPG"><br />
-<img src="http://www.jroller.com/resources/l/ldewavrin/IMG_1073.JPG" border="0" width="200"></a>
+<a href="https://lh5.googleusercontent.com/-dOQf_AymqAw/TwOnYU2M0SI/AAAAAAAAJfI/1-J2fwqyv20/w383-h287-k/IMG_1073.JPG"><br />
+<img src="https://lh5.googleusercontent.com/-dOQf_AymqAw/TwOnYU2M0SI/AAAAAAAAJfI/1-J2fwqyv20/w383-h287-k/IMG_1073.JPG" border="0" width="200"></a>
 </td>
 </tr>
 <tr>
@@ -106,8 +107,8 @@ F16 during demo
 </tr>
 <tr>
 <td>
-<a href="http://www.jroller.com/resources/l/ldewavrin/IMG_1074.JPG"><br />
-<img src="http://www.jroller.com/resources/l/ldewavrin/IMG_1074.JPG" border="0" width="200"></a>
+<a href="https://lh6.googleusercontent.com/-9i4BRHiRfv0/TwOnYzbbbLI/AAAAAAAAJfY/Dg1fwLg5m8g/w383-h287-k/IMG_1074.JPG"><br />
+<img src="https://lh6.googleusercontent.com/-9i4BRHiRfv0/TwOnYzbbbLI/AAAAAAAAJfY/Dg1fwLg5m8g/w383-h287-k/IMG_1074.JPG" border="0" width="200"></a>
 </td>
 </tr>
 <tr>

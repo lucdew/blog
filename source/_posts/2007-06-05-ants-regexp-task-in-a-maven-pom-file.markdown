@@ -3,6 +3,7 @@ layout: post
 title: Ant's replaceregexp task in a maven pom file
 wordpress_id: 229
 wordpress_url: http://www.dewavrin.info/?p=229
+comments: true
 categories: 
 - java
 - tech

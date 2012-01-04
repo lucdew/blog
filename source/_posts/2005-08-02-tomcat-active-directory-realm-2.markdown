@@ -3,6 +3,7 @@ layout: post
 title: Tomcat Active Directory realm
 wordpress_id: 204
 wordpress_url: http://www.dewavrin.info/?p=204
+comments: true
 categories: 
 - java
 tags:

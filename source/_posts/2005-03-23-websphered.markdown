@@ -3,6 +3,7 @@ layout: post
 title: Websphered
 wordpress_id: 123
 wordpress_url: http://www.dewavrin.info/?p=123
+comments: true
 categories: 
 - java
 tags:

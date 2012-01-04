@@ -3,6 +3,7 @@ layout: post
 title: Would you blog about this song ?
 wordpress_id: 238
 wordpress_url: http://www.dewavrin.info/?p=238
+comments: true
 categories: 
 - uncategorized
 tags: 

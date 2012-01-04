@@ -3,6 +3,7 @@ layout: post
 title: My top 10 blogs
 wordpress_id: 237
 wordpress_url: http://www.dewavrin.info/?p=237
+comments: true
 categories: 
 - general
 tags: 

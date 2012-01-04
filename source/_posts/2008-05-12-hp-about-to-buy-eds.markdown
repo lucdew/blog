@@ -3,6 +3,7 @@ layout: post
 title: HP about to buy EDS
 wordpress_id: 243
 wordpress_url: http://www.dewavrin.info/?p=243
+comments: true
 categories: 
 - general
 - tech

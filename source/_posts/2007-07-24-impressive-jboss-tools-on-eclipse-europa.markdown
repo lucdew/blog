@@ -3,6 +3,7 @@ layout: post
 title: Impressive Jboss tools on Eclipse Europa
 wordpress_id: 232
 wordpress_url: http://www.dewavrin.info/?p=232
+comments: true
 categories: 
 - java
 - tech

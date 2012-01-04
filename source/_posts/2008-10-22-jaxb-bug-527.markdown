@@ -3,6 +3,7 @@ layout: post
 title: Jaxb bug 527
 wordpress_id: 250
 wordpress_url: http://www.dewavrin.info/?p=250
+comments: true
 categories: 
 - java
 tags: 

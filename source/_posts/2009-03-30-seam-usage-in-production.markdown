@@ -3,6 +3,7 @@ layout: post
 title: Seam usage in production
 wordpress_id: 261
 wordpress_url: http://www.dewavrin.info/?p=261
+comments: true
 categories: 
 - java
 - tech

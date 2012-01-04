@@ -3,6 +3,7 @@ layout: post
 title: A groovy use case
 wordpress_id: 228
 wordpress_url: http://www.dewavrin.info/?p=228
+comments: true
 categories: 
 - java
 - tech

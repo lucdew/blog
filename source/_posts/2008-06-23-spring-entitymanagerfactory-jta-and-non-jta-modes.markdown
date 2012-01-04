@@ -3,6 +3,7 @@ layout: post
 title: Spring entityManagerFactory in jta and non-jta modes
 wordpress_id: 244
 wordpress_url: http://www.dewavrin.info/?p=244
+comments: true
 categories: 
 - java
 - general

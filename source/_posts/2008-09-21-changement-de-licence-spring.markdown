@@ -3,6 +3,7 @@ layout: post
 title: Spring maintenant payant
 wordpress_id: 248
 wordpress_url: http://www.dewavrin.info/?p=248
+comments: true
 categories: 
 - java
 - tech

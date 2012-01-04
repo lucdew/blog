@@ -3,6 +3,7 @@ layout: post
 title: Is Ruby ready for enterprise ?
 wordpress_id: 198
 wordpress_url: http://www.dewavrin.info/?p=198
+comments: true
 categories: 
 - general
 tags:

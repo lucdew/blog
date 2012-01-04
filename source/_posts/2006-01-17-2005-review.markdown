@@ -3,6 +3,7 @@ layout: post
 title: 2005 review
 wordpress_id: 108
 wordpress_url: http://www.dewavrin.info/?p=108
+comments: true
 categories: 
 - java
 tags: []

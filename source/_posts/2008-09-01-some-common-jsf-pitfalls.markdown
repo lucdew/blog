@@ -3,6 +3,7 @@ layout: post
 title: Some common JSF pitfalls
 wordpress_id: 247
 wordpress_url: http://www.dewavrin.info/?p=247
+comments: true
 categories: 
 - java
 - tech

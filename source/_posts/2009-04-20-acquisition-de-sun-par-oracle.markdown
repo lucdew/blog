@@ -3,6 +3,7 @@ layout: post
 title: Acquisition de Sun par Oracle
 wordpress_id: 263
 wordpress_url: http://www.dewavrin.info/?p=263
+comments: true
 categories: 
 - general
 tags:

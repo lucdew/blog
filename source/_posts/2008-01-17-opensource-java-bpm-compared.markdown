@@ -3,6 +3,7 @@ layout: post
 title: Opensource Java BPM compared
 wordpress_id: 241
 wordpress_url: http://www.dewavrin.info/?p=241
+comments: true
 categories: 
 - java
 - tech

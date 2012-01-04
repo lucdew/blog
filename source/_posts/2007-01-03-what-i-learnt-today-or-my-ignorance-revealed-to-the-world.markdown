@@ -3,6 +3,7 @@ layout: post
 title: What i learnt today or my ignorance revealed to the world
 wordpress_id: 231
 wordpress_url: http://www.dewavrin.info/?p=231
+comments: true
 categories: 
 - java
 - tech

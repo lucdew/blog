@@ -3,6 +3,7 @@ layout: post
 title: French National Day Photos
 wordpress_id: 137
 wordpress_url: http://www.dewavrin.info/?p=137
+comments: true
 categories: 
 - general
 tags:

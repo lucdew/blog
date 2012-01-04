@@ -3,6 +3,7 @@ layout: post
 title: JRockit rocks on IA64
 wordpress_id: 128
 wordpress_url: http://www.dewavrin.info/?p=128
+comments: true
 categories: 
 - weblogic
 tags:

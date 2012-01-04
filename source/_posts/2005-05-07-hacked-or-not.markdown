@@ -3,6 +3,7 @@ layout: post
 title: Hacked or not?
 wordpress_id: 118
 wordpress_url: http://www.dewavrin.info/?p=118
+comments: true
 categories: 
 - general
 tags: []

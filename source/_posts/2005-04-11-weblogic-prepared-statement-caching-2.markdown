@@ -3,6 +3,7 @@ layout: post
 title: Weblogic prepared statement caching
 wordpress_id: 210
 wordpress_url: http://www.dewavrin.info/?p=210
+comments: true
 categories: 
 - weblogic
 tags:

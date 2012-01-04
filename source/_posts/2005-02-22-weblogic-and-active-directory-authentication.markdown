@@ -3,6 +3,7 @@ layout: post
 title: Weblogic and Active Directory authentication
 wordpress_id: 126
 wordpress_url: http://www.dewavrin.info/?p=126
+comments: true
 categories: 
 - weblogic
 tags:

@@ -3,6 +3,7 @@ layout: post
 title: IT consolidation
 wordpress_id: 240
 wordpress_url: http://www.dewavrin.info/?p=240
+comments: true
 categories: 
 - tech
 tags: []

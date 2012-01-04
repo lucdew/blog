@@ -3,6 +3,7 @@ layout: post
 title: Leverage Ant XML nature
 wordpress_id: 195
 wordpress_url: http://www.dewavrin.info/?p=195
+comments: true
 categories: 
 - general
 tags: 

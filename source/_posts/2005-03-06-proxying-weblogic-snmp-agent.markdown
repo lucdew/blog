@@ -3,6 +3,7 @@ layout: post
 title: Proxying Weblogic SNMP Agent
 wordpress_id: 125
 wordpress_url: http://www.dewavrin.info/?p=125
+comments: true
 categories: 
 - weblogic
 tags:

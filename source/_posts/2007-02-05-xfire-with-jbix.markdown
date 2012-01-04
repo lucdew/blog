@@ -3,6 +3,7 @@ layout: post
 title: Xfire with Jibx
 wordpress_id: 226
 wordpress_url: http://www.dewavrin.info/?p=226
+comments: true
 categories: 
 - tech
 tags: 

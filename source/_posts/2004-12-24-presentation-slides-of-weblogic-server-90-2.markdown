@@ -3,6 +3,7 @@ layout: post
 title: Presentation slides of Weblogic server 9.0
 wordpress_id: 217
 wordpress_url: http://www.dewavrin.info/?p=217
+comments: true
 categories: 
 - weblogic
 tags:

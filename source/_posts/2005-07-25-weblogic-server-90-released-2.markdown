@@ -3,6 +3,7 @@ layout: post
 title: Weblogic server 9.0 released
 wordpress_id: 205
 wordpress_url: http://www.dewavrin.info/?p=205
+comments: true
 categories: 
 - weblogic
 tags:

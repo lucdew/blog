@@ -3,6 +3,7 @@ layout: post
 title: Create your own @Logger annotation
 wordpress_id: 233
 wordpress_url: http://www.dewavrin.info/?p=233
+comments: true
 categories: 
 - java
 - tech

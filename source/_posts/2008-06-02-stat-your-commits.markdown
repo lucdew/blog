@@ -3,6 +3,7 @@ layout: post
 title: Stat your commits
 wordpress_id: 245
 wordpress_url: http://www.dewavrin.info/?p=245
+comments: true
 categories: 
 - java
 - tech

@@ -3,6 +3,7 @@ layout: post
 title: Interesting article about Weblogic Entity EJB clustering
 wordpress_id: 122
 wordpress_url: http://www.dewavrin.info/?p=122
+comments: true
 categories: 
 - weblogic
 tags:

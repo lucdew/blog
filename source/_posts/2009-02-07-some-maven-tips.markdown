@@ -3,6 +3,7 @@ layout: post
 title: Some Maven tips
 wordpress_id: 254
 wordpress_url: http://www.dewavrin.info/?p=254
+comments: true
 categories: 
 - java
 - tech

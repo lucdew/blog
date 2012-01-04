@@ -3,6 +3,7 @@ layout: post
 title: Economic downturn and impact on javabloggers
 wordpress_id: 257
 wordpress_url: http://www.dewavrin.info/?p=257
+comments: true
 categories: 
 - java
 - general

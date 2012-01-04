@@ -3,6 +3,7 @@ layout: post
 title: "Maven quick tip: adding a local dependency"
 wordpress_id: 189
 wordpress_url: http://www.dewavrin.info/?p=189
+comments: true
 categories: 
 - java
 tags:

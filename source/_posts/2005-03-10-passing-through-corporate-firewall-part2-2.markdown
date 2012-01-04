@@ -3,6 +3,7 @@ layout: post
 title: Passing through corporate Firewall (Part2)
 wordpress_id: 214
 wordpress_url: http://www.dewavrin.info/?p=214
+comments: true
 categories: 
 - general
 tags:

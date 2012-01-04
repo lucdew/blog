@@ -3,6 +3,7 @@ layout: post
 title: Weblogic server 9
 wordpress_id: 132
 wordpress_url: http://www.dewavrin.info/?p=132
+comments: true
 categories: 
 - general
 tags:

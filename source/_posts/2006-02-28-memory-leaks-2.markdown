@@ -3,6 +3,7 @@ layout: post
 title: Memory leaks
 wordpress_id: 196
 wordpress_url: http://www.dewavrin.info/?p=196
+comments: true
 categories: 
 - java
 tags:

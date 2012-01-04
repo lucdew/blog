@@ -3,6 +3,7 @@ layout: post
 title: Enable logging for JDBC&#39;s thin driver in Weblogic
 wordpress_id: 117
 wordpress_url: http://www.dewavrin.info/?p=117
+comments: true
 categories: 
 - weblogic
 tags:

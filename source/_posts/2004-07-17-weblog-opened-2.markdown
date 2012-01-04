@@ -3,6 +3,7 @@ layout: post
 title: Weblog opened
 wordpress_id: 139
 wordpress_url: http://www.dewavrin.info/?p=139
+comments: true
 categories: 
 - general
 tags:
