@@ -16,7 +16,7 @@ Here are some screenshots:
 
 - Hibernate's perspective (using a Jpa persistance unit):
 
-[![Hibernate perspective (Jpa persistance unit)](http://www.dewavrin.info/resources/rhds-hibernate.JPG "Hibernate perspective (Jpa persistance unit)")](http://www.dewavrin.info/resources/rhds-hibernate.JPG)
+[![Hibernate perspective (Jpa persistance unit)](http://www.dewavrin.info/images/custom/rhds-hibernate.JPG "Hibernate perspective (Jpa persistance unit)")](http://www.dewavrin.info/images/custom/rhds-hibernate.JPG)
 
 - Facelet design/source view
-[![](http://www.dewavrin.info/resources/jsf_facelets_visual.JPG)](http://www.dewavrin.info/resources/jsf_facelets_visual.JPG "Exadel")
+[![](http://www.dewavrin.info/images/custom/jsf_facelets_visual.JPG)](http://www.dewavrin.info/images/custom/jsf_facelets_visual.JPG "Exadel")

@@ -15,7 +15,7 @@ tags:
 ---
 Some VOIP softphones like X-lite rely on [SIP](http://en.wikipedia.org/wiki/SIP) (connection) and [RTP](http://en.wikipedia.org/wiki/Real-time_Transport_Protocol) (voice) protocols which both work on top of UDP.
 
-In previous posts ([1](http://www.dewavrin.info/blog/passing-through-corporate-firewall) and [2](http://www.dewavrin.info/blog/passing-through-corporate-firewall-part2-2)), I explained how to create a tunnel between a machine in a corporate networkand an external machine (like your home machine). The solution was based on SOCKS capabilities of a ssh tunnel which can behave like a Socks proxy server (-D optionof openssh).
+In previous posts ([1](/blog/passing-through-corporate-firewall/) and [2](/blog/passing-through-corporate-firewall-part2-2/)), I explained how to create a tunnel between a machine in a corporate networkand an external machine (like your home machine). The solution was based on SOCKS capabilities of a ssh tunnel which can behave like a Socks proxy server (-D optionof openssh).
 
 With recent versions of openSSH, SOCKSv5 is even supported and therefore it becomespossible to tunnel UDP. Unfortunately, I haven't found any Socksv5 compliant VOIP softphone.
 

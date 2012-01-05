@@ -43,7 +43,7 @@ SetOutputFilter DEFLATE
 SetInputFilter DEFLATE
 {% endcodeblock %}
 
-- **Dealing with SOAP with attachments**. mod_proxy can be used in front of any servlet container but when the Web containers are clustered it's better to use the relative Apache module of these containers (mod_jk for Tomcat or mod_wl_20 for Weblogic). The problem is that some modules don't handle well HTTP chuncked-encoding transfer type. Chunck-encoding is used by default by [Jakarta commons httpclient](http://www.dewavrin.info/wp-admin/jakarta.apache.org/commons/httpclient/) library (see [ this RFC description](http://www.w3.org/Protocols/rfc2616/rfc2616-sec3.html) of chunck-encoding). If you do SOAP with attachments with a Mime-Multipart HTTP request, the proxy alters the HTTP headers of the request and Axis doesn't handle it well. The only solution for me has been to use the latest mod_proxy version.Here's a sample request:
+- **Dealing with SOAP with attachments**. mod_proxy can be used in front of any servlet container but when the Web containers are clustered it's better to use the relative Apache module of these containers (mod_jk for Tomcat or mod_wl_20 for Weblogic). The problem is that some modules don't handle well HTTP chuncked-encoding transfer type. Chunck-encoding is used by default by [Jakarta commons httpclient](http://jakarta.apache.org/commons/httpclient/) library (see [ this RFC description](http://www.w3.org/Protocols/rfc2616/rfc2616-sec3.html) of chunck-encoding). If you do SOAP with attachments with a Mime-Multipart HTTP request, the proxy alters the HTTP headers of the request and Axis doesn't handle it well. The only solution for me has been to use the latest mod_proxy version.Here's a sample request:
 
 {% codeblock %}
 POST /ws/Call HTTP/1.1

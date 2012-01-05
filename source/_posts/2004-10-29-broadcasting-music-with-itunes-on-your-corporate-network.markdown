@@ -14,13 +14,13 @@ tags:
 
 Well,since most companies don&#39;t allow their employees to host mp3 on serversespecially on production servers ;-) Here&#39;s a little trick if you havea machine connected to the internet at home (with a fixed IP address ordyndns to easily connect to it) to listen your mp3.
 
-Once again it uses SSL tunnel and SSH (See my previous [post](http://www.jroller.com/page/ldewavrin/20040819))to connect through your corporate firewalls and proxies to your homemachine. As a Itunes server I chose to use mt-daapd daemon on a Linuxserver. Here are steps:
+Once again it uses SSL tunnel and SSH (See my previous [post](/blog/passing-through-corporate-firewall-part2-2/))to connect through your corporate firewalls and proxies to your homemachine. As a Itunes server I chose to use mt-daapd daemon on a Linuxserver. Here are steps:
 
 1) On your home machine configure mt-daapd daemon. The step mostly consists in chosing the directory where your mp3s are.
 
-2) Configure ssh on your corporate machine to use stunnel (See my previous [post](http://www.jroller.com/page/ldewavrin/20040819))
+2) Configure ssh on your corporate machine to use stunnel (See my previous [post](/blog/passing-through-corporate-firewall-part2-2/))
 
-3)Configure the SSh daemon at home (See my previous [post](http://www.jroller.com/page/ldewavrin/20040819))
+3)Configure the SSh daemon at home (See my previous [post](/blog/passing-through-corporate-firewall-part2-2/))
 
 4) On your local machine, use RendezvousProxy toolhttp://ileech.sf.net/RendezvousProxy/ as a proxy for RendezVousprotocol. Itunes uses RendezVous protocol to automatically discover anyItunes server. It works with multicast packets (not investigated thatmuch on it).Configure RendezvousProxy to listen on port 3690 for instance and use daacp.tcp plugin.
 

@@ -19,4 +19,4 @@ Yesterday,I attented the online conference about [Weblogic](http://edocs.bea.com
 - J2EE 1.4 compliance.
 - performance boost (without more precision ...)
 
-Well as you can notice the improvements are not revolutionnary and I think it shows that this product has really come to maturity (in termsof administration). By the way, the beta will be available in the beginning of November. Since the presentation was public I have uploaded a screenshot of the new console:![WLS9 console](http://www.jroller.com/resources/l/ldewavrin/console.jpg)
+Well as you can notice the improvements are not revolutionnary and I think it shows that this product has really come to maturity (in termsof administration). By the way, the beta will be available in the beginning of November. Since the presentation was public I have uploaded a screenshot of the new console:![WLS9 console](/images/custom/console.jpg)

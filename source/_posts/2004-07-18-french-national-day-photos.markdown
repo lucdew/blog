@@ -9,4 +9,4 @@ categories:
 tags:
 - misc
 ---
-[Photos](http://www.dewavrin.info/14juillet2004/) from the second floor of the Eiffel tower of helicopters in the Paris sky. (I missed the "French Patrol"and the English "Red Arrows" aircrafts !)
+[Photos](Broken!) from the second floor of the Eiffel tower of helicopters in the Paris sky. (I missed the "French Patrol"and the English "Red Arrows" aircrafts !)

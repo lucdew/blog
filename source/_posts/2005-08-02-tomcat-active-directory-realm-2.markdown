@@ -12,7 +12,7 @@ tags:
 ---
  Even if configuring a JNDI realm for Tomcat is pretty well documented connecting Tomcat to Active Directory is not really.
 
-After [my post](http://www.jroller.com/page/ldewavrin/20041129) about Weblogic and active directory authentication and authorizations.
+After [my post](/blog/weblogic-and-active-directory-authentication) about Weblogic and active directory authentication and authorizations.
 
 Here's a just an example of a configuration of the JNDI realm for ADS in order to use the container 's authentication and authorization features.It might help some...
 
