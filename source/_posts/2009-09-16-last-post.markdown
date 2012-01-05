@@ -18,3 +18,6 @@ I decided to no longer post on my blog due to a serious lack of motivation, time
 -  Ejb3 on JBoss with Maven
 -  Creating a Spring based library (with its own context)
 -  Au revoir Windows vista
+
+
+<span style="color: red">Update January 4th 2012 : Migrated blog to github.com, revamped it. It is now powered by octopress and statically generated (it used to be fueled by Wordpress) </span>
