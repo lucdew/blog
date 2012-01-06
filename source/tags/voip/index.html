@@ -3,8 +3,23 @@ layout: default
 title: "tagged: voip"
 syntax-highlighting: yes
 ---
-<h1>Posts tagged with "voip"</h1>
 
+<div>
+<article role="article">
+<header>
+  <h1 class="entry-title">Posts tagged with "voip"</h1>
+</header>
+<div id="blog-archives">
 {% for post in site.tags.voip %}
+{% capture this_year %}{{ post.date | date: "%Y" }}{% endcapture %}
+{% unless year == this_year %}
+  {% assign year = this_year %}
+  <h2>{{ year }}</h2>
+{% endunless %}
+  <article>
   {% include archive_post.html %}
+  </article>
 {% endfor %}
+</div>
+</article>
+

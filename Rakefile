@@ -399,11 +399,26 @@ layout: default
 title: "tagged: #{tag}"
 syntax-highlighting: yes
 ---
-<h1>Posts tagged with "#{tag}"</h1>
 
+<div>
+<article role="article">
+<header>
+  <h1 class="entry-title">Posts tagged with "#{tag}"</h1>
+</header>
+<div id="blog-archives">
 {% for post in site.tags.#{tag} %}
+{% capture this_year %}{{ post.date | date: "%Y" }}{% endcapture %}
+{% unless year == this_year %}
+  {% assign year = this_year %}
+  <h2>{{ year }}</h2>
+{% endunless %}
+  <article>
   {% include archive_post.html %}
+  </article>
 {% endfor %}
+</div>
+</article>
+
 HTML
 
     FileUtils.mkdir_p("source/tags/#{tag}")
@@ -430,7 +445,7 @@ task :tag_cloud do
   site.tags.sort.each do |tag, posts|
     s = posts.count
     font_size = ((20 - 10.0*(max_count-s)/max_count)*2).to_i/2.0
-    html << "<a href=\"/tags/#{tag}\" title=\"Postings tagged #{tag}\" style=\"font-size: #{font_size}px; line-height:#{font_size}px\">#{tag}</a> "
+    html << "<a href=\"/tags/#{tag}\" title=\"Postings tagged #{tag}\" style=\"font-size: #{font_size}px; line-height:#{font_size}px;text-decoration:none;\">#{tag}</a> "
   end
   html << "</p></section>"
   File.open('source/_includes/custom/asides/tag_cloud.html', 'w+') do |file|
