@@ -1,10 +1,10 @@
 ## Install instructions
 
 1. Clone current repo :
-	git clone https://github.com/lucdew/blog.git
+    git clone https://github.com/lucdew/blog.git
 
 2. Clone lucdew.github.com
-	https://github.com/lucdew/lucdew.github.com.git
+    https://github.com/lucdew/lucdew.github.com.git
 
 3. Install rvm, by following the instructions at http://octopress.org/docs/setup/
 
@@ -12,8 +12,8 @@
 
 5. Install gems that will work with blog (Listed in Gemfile and Gemfile.locked)
 
-	cd blog
-	bundle install
+    cd blog
+    bundle install
 
 ## What is Octopress?
 
