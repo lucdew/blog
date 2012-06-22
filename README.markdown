@@ -1,3 +1,18 @@
+## Install instructions
+
+1. Clone current repo
+
+2. Clone lucdew.github.com
+
+3. Install octopress
+
+4. Add sourcing of .bash_profile (only executed in interactive mode)  in .bashrc
+
+5. Install gems that will work with blog (Listed in Gemfile and Gemfile.locked)
+
+cd blog
+bundle install
+
 ## What is Octopress?
 
 Octopress is [Jekyll](https://github.com/mojombo/jekyll) blogging at its finest.
