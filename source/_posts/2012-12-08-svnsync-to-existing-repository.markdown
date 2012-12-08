@@ -7,7 +7,7 @@ categories:
 tags: svn
 ---
 
-Basically I will explain how to synchronize with svnsync on an existing repository. I had trouble to find the info on the Internet some I am sharing it. I am by no mean a subversion administrator therefore if the info is not correct please be kind to let me know.
+Basically I will explain how to synchronize with svnsync on an existing repository. I had trouble to find the info on the Internet so I am sharing it. I am by no mean a subversion administrator therefore if the info is not correct please be kind to let me know.
 
 Yes I know subversion is not really 2013 but recently I had to synchronize a large master subversion repository with a slave. The slave had to be rebuilt from scratch. It turned out that synchronization with svnsync was really too slow to be considered. Therefore to speed up the process. I created a svn repository on the slave machine :
 {% codeblock %}
