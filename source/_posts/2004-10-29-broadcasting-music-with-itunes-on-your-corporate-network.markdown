@@ -1,5 +1,6 @@
 --- 
 layout: post
+date: 2004-10-29
 title: Broadcasting music with Itunes on your corporate Network
 wordpress_id: 130
 wordpress_url: http://www.dewavrin.info/?p=130
@@ -10,6 +11,7 @@ tags:
 - misc
 - firewall
 
+permalink: broadcasting-music-with-itunes-on-your-corporate-network
 ---
 
 Well,since most companies don&#39;t allow their employees to host mp3 on serversespecially on production servers ;-) Here&#39;s a little trick if you havea machine connected to the internet at home (with a fixed IP address ordyndns to easily connect to it) to listen your mp3.

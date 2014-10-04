@@ -1,5 +1,6 @@
 --- 
 layout: post
+date: 2004-10-29
 title: Passing through corporate firewall
 wordpress_id: 131
 wordpress_url: http://www.dewavrin.info/?p=131
@@ -9,7 +10,7 @@ categories:
 tags:
 - security
 - firewall
-
+permalink: passing-through-corporate-firewall
 ---
  Well, at least from inside your corporate network ;-)to surf, chat and more anonymously.
 

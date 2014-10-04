@@ -1,5 +1,6 @@
 --- 
 layout: post
+date: 2004-12-24
 title: Presentation slides of Weblogic server 9.0
 wordpress_id: 217
 wordpress_url: http://www.dewavrin.info/?p=217
@@ -9,6 +10,7 @@ categories:
 tags:
 - weblogic
 
+permalink: presentation-slides-of-weblogic-server-90-2
 ---
 
 Nice slides of a presentation of [Weblogic](http://edocs.bea.com/wls/docs81/notes/issues.html "Known issues") server 9.0 made duringJavapolis 2004 are available on-line.

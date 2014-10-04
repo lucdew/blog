@@ -1,13 +1,11 @@
 --- 
-layout: post
 title: Weblogic 8.1 sp3 is out
-wordpress_id: 136
-wordpress_url: http://www.dewavrin.info/?p=136
-comments: true
+date: 2004-07-18
 categories: 
 - weblogic
 tags: []
 
+permalink: weblogic-81-sp3-is-out-2
 ---
 See the release note:[http://e-docs.bea.com/wls/docs81/notes/index.html](http://e-docs.bea.com/wls/docs81/note/index.html)
 

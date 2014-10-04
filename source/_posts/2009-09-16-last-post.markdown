@@ -1,23 +1,19 @@
---- 
-layout: post
-title: Last Post
-wordpress_id: 266
-wordpress_url: http://www.dewavrin.info/?p=266
-comments: true
-categories: 
-- general
-tags:
-- misc
-
 ---
-I decided to no longer post on my blog due to a serious lack of motivation, time and inspiring topics ;-). Of course, comments will now be closed. As a side note here are the titles of drafts that never turned into posts:
--  Difficulty of choosing a Java web framework
--  Seam managed persistence context and Spring
--  Bye Bye computer book shelf
--  Drools flow or jBPM4 ?
--  Ejb3 on JBoss with Maven
--  Creating a Spring based library (with its own context)
--  Au revoir Windows vista
+title: "Last post" 
+date: "2009-09-16"
+tags: ["misc"]
+categories: ["general"]
+permalink: last-post
+---
 
+I decided to no longer post on my blog due to a serious lack of motivation, time and inspiring topics ;-). Of course, comments will now be closed. As a side note here are the titles of drafts that never turned into posts:
+
+*  Difficulty of choosing a Java web framework
+*  Seam managed persistence context and Spring
+*  Bye Bye computer book shelf
+*  Drools flow or jBPM4 ?
+*  Ejb3 on JBoss with Maven
+*  Creating a Spring based library (with its own context)
+*  Au revoir Windows vista
 
 <span style="color: red">Update January 4th 2012 : Migrated blog to github.com, revamped it. It is now powered by octopress and statically generated (it used to be fueled by Wordpress) </span>

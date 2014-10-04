@@ -1,5 +1,6 @@
 --- 
 layout: post
+date: 2005-07-25
 title: Weblogic server 9.0 released
 wordpress_id: 205
 wordpress_url: http://www.dewavrin.info/?p=205
@@ -9,6 +10,7 @@ categories:
 tags:
 - weblogic
 
+permalink: weblogic-server-90-released-2
 ---
 
 I haven't seen any special announcement neither  on theserverside.com (too late a annoucement has been published)  nor on javalobby.org but it seems that Weblogic server 9.0 a.k.a "Diablo" has been released. At least it can be downloaded from dev2dev.bea.com since 07/22

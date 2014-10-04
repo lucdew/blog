@@ -1,15 +1,13 @@
 --- 
-layout: post
 title: Stat your commits
-wordpress_id: 245
-wordpress_url: http://www.dewavrin.info/?p=245
-comments: true
+date: 2008-06-02
 categories: 
 - java
 - tech
 tags: 
 - maven
 - subversion
+permalink: stat-your-commits
 ---
 I recently discover the [StatSCM](http://stat-scm.sourceforge.net/) maven plugin and it made our team day . It gives useful information about your Subversion activity (it supports other SCM systems) giving precise developers activity information or file statistics. It also generates some nice charts. I found it very useful to monitor what the team members commit: for instance we discovered that a trainee was the developer of the month (ranked by LOC commited) because he commited some very large csv test files.First to enable it, configure the dependency and declare the report in the reports section of your maven parent pom file:
 {% codeblock lang:xml %}

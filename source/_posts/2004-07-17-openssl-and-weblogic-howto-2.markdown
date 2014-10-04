@@ -1,12 +1,10 @@
 --- 
-layout: post
 title: OpenSSL and Weblogic howto
-wordpress_id: 138
-wordpress_url: http://www.dewavrin.info/?p=138
-comments: true
+date: 2004-07-17
 categories: 
 - weblogic
 tags: []
 
+permalink: openssl-and-weblogic-howto-2
 ---
  Coming out this summer ... (I hope so)

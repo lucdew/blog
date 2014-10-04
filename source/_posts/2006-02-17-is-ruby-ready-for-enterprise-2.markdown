@@ -1,5 +1,6 @@
 --- 
 layout: post
+date: 2006-02-17
 title: Is Ruby ready for enterprise ?
 wordpress_id: 198
 wordpress_url: http://www.dewavrin.info/?p=198
@@ -9,6 +10,7 @@ categories:
 tags:
 - ruby
 
+permalink: is-ruby-ready-for-enterprise-2
 ---
 
 I have been attracted by the horns and whistles of Ruby (and Rails) and recently I decided to jump on the bandwagon.

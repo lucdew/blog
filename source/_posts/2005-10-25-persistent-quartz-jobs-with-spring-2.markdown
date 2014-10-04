@@ -1,5 +1,6 @@
 --- 
 layout: post
+date: 2005-10-25
 title: Persistent Quartz Jobs with Spring
 wordpress_id: 201
 wordpress_url: http://www.dewavrin.info/?p=201
@@ -10,6 +11,7 @@ tags:
 - spring
 - quartz
 
+permalink: persistent-quartz-jobs-with-spring-2
 ---
 I developped a small web Spring MVC application for the company I work for that allowed with other things to schedule executions of Ant scripts (reinventing the wheel...)
 

@@ -1,14 +1,12 @@
 --- 
-layout: post
 title: Weblog opened
-wordpress_id: 139
-wordpress_url: http://www.dewavrin.info/?p=139
-comments: true
+date: 2004-07-17
 categories: 
 - general
 tags:
 - misc
 
+permalink: weblog-opened-2
 ---
 Welcome to my Weblog that will deal mainly with Java J2EE. Hope you&#39;ll enjoy the information here.
 To contact me , please send an email to:  luc at dewavrin dot info 

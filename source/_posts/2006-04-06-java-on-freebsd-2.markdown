@@ -1,5 +1,6 @@
 --- 
 layout: post
+date: 2006-04-06
 title: Java on FreeBSD
 wordpress_id: 194
 wordpress_url: http://www.dewavrin.info/?p=194
@@ -9,6 +10,7 @@ categories:
 tags:
 - freebsd
 
+permalink: java-on-freebsd-2
 ---
 Hey, great ! Sun and FreeBSD agreed on Java distribution and now J2SDK can get distributed with FreeBSD. No more get linux-compat <span>=&gt; get a JDK =&gt; get Java sources =&gt;</span> Compile and package to run Java "natively" on FreeBSD (without Linux compatibility ).
 

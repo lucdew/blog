@@ -1,14 +1,12 @@
 --- 
-layout: post
 title: A jBPM review
-wordpress_id: 235
-wordpress_url: http://www.dewavrin.info/?p=235
-comments: true
+date: 2007-11-16
 categories: 
 - java
 - tech
 tags: 
 - jBPM
+permalink: a-jbpm-review
 ---
 Here's a quick review of [jBPM](http://labs.jboss.com/jbossjbpm/) and some issues I experimented on a recent project.**jBPM features:**
 - **A bare workflow engine** focused on persistence of a business process.

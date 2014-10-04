@@ -1,5 +1,6 @@
 --- 
 layout: post
+date: 2008-09-21
 title: Spring maintenant payant
 wordpress_id: 248
 wordpress_url: http://www.dewavrin.info/?p=248
@@ -10,6 +11,7 @@ categories:
 tags:
 - spring
 
+permalink: changement-de-licence-spring
 ---
 
 Oui la nouvelle du week-end ou plutot de fin de semaine sur le [changement de licence de Spring](http://newblog.springsource.com/2008/05/27/open-source-open-strategy-the-springsource-manifesto/) **me reste en travers de la gorge**, même si j'en comprends les raisons.

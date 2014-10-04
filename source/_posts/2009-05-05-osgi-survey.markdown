@@ -1,14 +1,9 @@
---- 
-layout: post
-title: OSGI survey
-wordpress_id: 264
-wordpress_url: http://www.dewavrin.info/?p=264
-comments: true
-categories: 
-- java
-- tech
-tags: 
-- osgi
+---
+title: "OSGI survey"
+date: "2009-05-05"
+categories: ["java" ,"tech"]
+tags: ["osgi"]
+permalink: osgi-survey
 ---
 <iframe src="https://docs.google.com/spreadsheet/embeddedform?formkey=ckhzRjlyekdjYWtGZnlKYlZUYU0zM0E6MA.." width="760" height="344" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
 

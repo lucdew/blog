@@ -1,5 +1,6 @@
 --- 
 layout: post
+date: 2004-09-28
 title: Weblogic server 9
 wordpress_id: 132
 wordpress_url: http://www.dewavrin.info/?p=132
@@ -9,6 +10,7 @@ categories:
 tags:
 - weblogic
 
+permalink: weblogic-server-9
 ---
 
 Yesterday,I attented the online conference about [Weblogic](http://edocs.bea.com/wls/docs81/notes/issues.html "Known issues") server 9 "Operation Administration andmaintainance" . Well, here are some of the enhancements I noted:

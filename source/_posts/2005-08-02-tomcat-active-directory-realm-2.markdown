@@ -1,5 +1,6 @@
 --- 
 layout: post
+date: 2005-08-02
 title: Tomcat Active Directory realm
 wordpress_id: 204
 wordpress_url: http://www.dewavrin.info/?p=204
@@ -9,6 +10,7 @@ categories:
 tags:
 - tomcat
 
+permalink: tomcat-active-directory-realm-2
 ---
  Even if configuring a JNDI realm for Tomcat is pretty well documented connecting Tomcat to Active Directory is not really.
 

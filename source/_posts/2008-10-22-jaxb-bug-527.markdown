@@ -1,12 +1,9 @@
---- 
-layout: post
-title: Jaxb bug 527
-wordpress_id: 250
-wordpress_url: http://www.dewavrin.info/?p=250
-comments: true
-categories: 
-- java
-tags: 
-- jaxb
 ---
+title: "Jaxb bug 527"
+date: "2008-10-22"
+categories: ["java"]
+tags: ["jaxb"]
+permalink: jaxb-bug-527
+---
+
 Please,  if you think you are concerned  vote for the [bug](https://jaxb.dev.java.net/issues/show_bug.cgi?id=527) i submitted

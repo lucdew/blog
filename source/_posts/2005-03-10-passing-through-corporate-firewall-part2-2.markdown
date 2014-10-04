@@ -1,5 +1,6 @@
 --- 
 layout: post
+date: 2005-03-10
 title: Passing through corporate Firewall (Part2)
 wordpress_id: 214
 wordpress_url: http://www.dewavrin.info/?p=214
@@ -10,6 +11,7 @@ tags:
 - security
 - firewall
 
+permalink: passing-through-corporate-firewall-part2-2
 ---
 [Last time](/blog/passing-through-corporate-firewall/) I have used the combination of proxytunnel and SSH to connect tomy home machine from a corporate network behind a firewall and proxy. But it seems that proxytunnel is unable to pass through Microsoft ISA Proxy server. At least, I have tried with the -u  and -p  arguments of proxytunnels and it didn't work (even with a username following this pattern domain\username or username@domain) The Microsoft ISA proxy server requires NTLM authenticationand there's another combination that worked successfully to be able to connect through it to an external machine on SSL :[Ntlmaps](http://ntlmaps.sourceforge.net/), [Corkscrew](http://www.agroman.net/corkscrew/) which tunnels ssh through HTTPS and of courseSSH.
 

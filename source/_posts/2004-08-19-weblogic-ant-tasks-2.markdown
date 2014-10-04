@@ -1,5 +1,6 @@
 --- 
 layout: post
+date: 2004-08-19
 title: Weblogic ant tasks
 wordpress_id: 135
 wordpress_url: http://www.dewavrin.info/?p=135
@@ -9,6 +10,7 @@ categories:
 tags:
 - weblogic
 
+permalink: weblogic-ant-tasks-2
 ---
 
 For having worked with many of the [Weblogic](http://edocs.bea.com/wls/docs81/notes/issues.html "Known issues") ant tasks,it&#39;s really a pain to make them work with a standard ant(i.e: not the one bundled with [Weblogic](http://edocs.bea.com/wls/docs81/notes/issues.html "Known issues")).

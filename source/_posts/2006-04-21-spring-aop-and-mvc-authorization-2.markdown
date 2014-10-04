@@ -1,5 +1,6 @@
 --- 
 layout: post
+date: 2006-04-21
 title: Spring AOP and MVC authorization
 wordpress_id: 193
 wordpress_url: http://www.dewavrin.info/?p=193
@@ -10,6 +11,7 @@ tags:
 - aop
 - aspectj
 - spring
+permalink: spring-aop-and-mvc-authorization-2
 ---
 With Spring and a bunch of AOP I'll show how it's easy to add protectionsof your business components and notify the view that the user is not authorizedto perform a specific action.This example relies on Spring 2.0 and Spring MVC for the presentation layer.Let's take an example of a service that executes jobs whose class is named JobExecutorService.This service has methods to add jobs in a Job queue, remove a job from the queueor stop a running job. We would like to authorize only owners of a job to remove the job or stop it. The jobs are persistent (to recover from failure).
 

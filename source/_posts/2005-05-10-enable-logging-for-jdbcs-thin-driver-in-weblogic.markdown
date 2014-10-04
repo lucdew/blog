@@ -1,5 +1,6 @@
 --- 
 layout: post
+date: 2005-05-10
 title: Enable logging for JDBC&#39;s thin driver in Weblogic
 wordpress_id: 117
 wordpress_url: http://www.dewavrin.info/?p=117
@@ -10,6 +11,7 @@ tags:
 - weblogic
 - jdbc
 
+permalink: enable-logging-for-jdbcs-thin-driver-in-weblogic
 ---
 Here's a quick and dirty tip to enable JDBC logging for Oracle thin drivers.Enabling JDBC logging for connections of a pool is straightforward with JDBC connection proxies like p6spy tool. Sadly some applications still don't use connection pools configured on J2EE application server and connect directly to database without retrieving a connection from a pool and with the JDBC URL hardcoded. For the latters, you can still trace JDBC activity.
 

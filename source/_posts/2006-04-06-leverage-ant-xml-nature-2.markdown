@@ -1,5 +1,6 @@
 --- 
 layout: post
+date: 2006-04-06
 title: Leverage Ant XML nature
 wordpress_id: 195
 wordpress_url: http://www.dewavrin.info/?p=195
@@ -8,6 +9,7 @@ categories:
 - general
 tags: 
 - ant
+permalink: leverage-ant-xml-nature-2
 ---
 I have been responsible at my current job position of the build of our JavaEE application. We had to build 3 different flavours of the same application. When I decided which build tool to use, I chose Ant since only Maven 1.0 had been released and I disliked writing logic in Jelly. If I had to choose today I'd probably go with Maven 2 because it becomes a standard for industrializing builds on Java and I have just found [a decent documentation](http://www.agilocity.com/roller/page/wrast?entry=better_builds_with_maven_2) on it...
 

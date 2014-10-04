@@ -1,5 +1,6 @@
 --- 
 layout: post
+date: 2004-12-15
 title: WLS 9.0 beta is out
 wordpress_id: 129
 wordpress_url: http://www.dewavrin.info/?p=129
@@ -9,6 +10,7 @@ categories:
 tags:
 - weblogic
 
+permalink: wls-90-beta-is-out-2
 ---
 Only for Windows so far.
 

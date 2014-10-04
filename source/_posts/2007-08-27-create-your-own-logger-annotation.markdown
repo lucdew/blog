@@ -1,9 +1,6 @@
 --- 
-layout: post
 title: Create your own @Logger annotation
-wordpress_id: 233
-wordpress_url: http://www.dewavrin.info/?p=233
-comments: true
+date: 2007-08-27
 categories: 
 - java
 - tech
@@ -11,6 +8,7 @@ tags:
 - aspectj
 - java
 
+permalink: create-your-own-logger-annotation
 ---
 Some frameworks like Seam use the <span class="term"><tt class="literal">@Logger </tt></span>annotation to instantiate a logger. Seam discovers at deployment annotated classes  (see the [Scanner](http://viewvc.jboss.org/cgi-bin/viewvc.cgi/jboss/jboss-seam/src/main/org/jboss/seam/deployment/Scanner.java?revision=1.29&view=markup) class for instance).You could mimic this behaviour with Spring and its AOP capabilities on Spring beans with the &lt;aop:aspectj-autoproxy/&gt; feature.But if you don't want to bootstrap your application with an IOC  container or a framework, there's still AspectJ AOP to the rescue.For the example, let's create the Logger marker annotation (AspectJ requires the target retention to be set to RUNTIME).
 {% codeblock lang:java %}

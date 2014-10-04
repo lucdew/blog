@@ -1,5 +1,6 @@
 --- 
 layout: post
+date: 2006-11-27
 title: "Maven quick tip: adding a local dependency"
 wordpress_id: 189
 wordpress_url: http://www.dewavrin.info/?p=189
@@ -9,6 +10,7 @@ categories:
 tags:
 - maven
 
+permalink: maven-quick-tip-adding-a-local-dependency
 ---
 Well after almost 6 months of silence, here's a maven quick tipif you need to add a dependency on a library without adding ityour local maven repository.Define the dependency scope as system and the path to your library:
 {% codeblock lang:xml %}

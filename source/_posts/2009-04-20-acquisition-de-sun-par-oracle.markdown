@@ -1,14 +1,9 @@
---- 
-layout: post
-title: Acquisition de Sun par Oracle
-wordpress_id: 263
-wordpress_url: http://www.dewavrin.info/?p=263
-comments: true
-categories: 
-- general
-tags:
-- java
-
+---
+title: "Acquisition de Sun par Oracle"
+date: "2009-04-20"
+categories: ["general"]
+tags: ["java"]
+permalink: acquisition-de-sun-par-oracle
 ---
 
 Pas sûr que Java soit gagnant dans l'histoire. Les incertitudes sur le devenir des produits Java n'est pas fait pour inciter les décideurs à opter pour cette technologie. Quelles sont les futures cibles : SpringSource, Redhat ? Sachant que SpringSource a été largement financé par des VC, à mon avis c'est un bon candidat. Bref, je me mets à la place d'un DSI aujourd'hui; si je ne veux pas prendre de risques j'opte pour .Net et les produits Microsoft : ligne de produits complète, cohérente et intégrée qui ne va pas disparaître d'ici 6 mois (j'exagère un peu...).

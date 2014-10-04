@@ -1,5 +1,6 @@
 --- 
 layout: post
+date: 2004-08-30
 title: Review of Weblogic scripting languages wlst (Jython based) vs wlsh ( WLS shell)
 wordpress_id: 133
 wordpress_url: http://www.dewavrin.info/?p=133
@@ -9,6 +10,7 @@ categories:
 tags:
 - weblogic
 
+permalink: review-of-weblogic-scripting-languages-wlst-jython-based-vs-wlsh-wls-shell
 ---
 
  Both are tools to programmatically and easily configure [Weblogic](http://edocs.bea.com/wls/docs81/notes/issues.html "Known issues") domains and   servers. Why these tools?

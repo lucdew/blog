@@ -1,5 +1,6 @@
 --- 
 layout: post
+date: 2007-01-03
 title: What i learnt today or my ignorance revealed to the world
 wordpress_id: 231
 wordpress_url: http://www.dewavrin.info/?p=231
@@ -10,6 +11,7 @@ categories:
 tags:
 - jta
 
+permalink: what-i-learnt-today-or-my-ignorance-revealed-to-the-world
 ---
 First of all happy new year 2007.Hi,I just discoverd today that closing a JDBC connection obtained via a DataSourcein a JTA transaction does not trigger a rollback (if autocommit is set to false)of the underlying transaction.Actually i didn't understand the Hibernate's after_statement connection release mode which aggressively close the connection after each statement (even if the JTA has not been commited or rollbacked). It's even Hibernate's advised mode for a JTA transaction . But reading the JTA spec seems to confirm that: 
 

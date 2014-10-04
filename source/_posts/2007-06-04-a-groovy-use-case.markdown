@@ -1,9 +1,6 @@
 --- 
-layout: post
 title: A groovy use case
-wordpress_id: 228
-wordpress_url: http://www.dewavrin.info/?p=228
-comments: true
+date: 2007-06-04
 categories: 
 - java
 - tech
@@ -11,6 +8,7 @@ tags:
 - groovy
 - spring
 
+permalink: a-groovy-use-case
 ---
 I recently discovered Spring's ability to declare beans that are script-based. This feature can be used to mock business interfaces with Groovy implementations. In a JavaEE container where startup and redeployment can take a while, it can be very useful, in pre-integration tests, to change the behaviour of your business services especially without redeploying the whole EAR or restarting the server.Here's an example declaration:
 

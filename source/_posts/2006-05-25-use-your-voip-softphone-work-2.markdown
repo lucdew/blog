@@ -1,5 +1,6 @@
 --- 
 layout: post
+date: 2006-05-25
 title: Use your VOIP softphone @work
 wordpress_id: 191
 wordpress_url: http://www.dewavrin.info/?p=191
@@ -12,6 +13,7 @@ tags:
 - vpn
 - security
 - firewall
+permalink: use-your-voip-softphone-work-2
 ---
 Some VOIP softphones like X-lite rely on [SIP](http://en.wikipedia.org/wiki/SIP) (connection) and [RTP](http://en.wikipedia.org/wiki/Real-time_Transport_Protocol) (voice) protocols which both work on top of UDP.
 

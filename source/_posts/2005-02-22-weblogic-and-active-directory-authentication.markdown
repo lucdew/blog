@@ -1,5 +1,6 @@
 --- 
 layout: post
+date: 2005-02-22
 title: Weblogic and Active Directory authentication
 wordpress_id: 126
 wordpress_url: http://www.dewavrin.info/?p=126
@@ -10,6 +11,7 @@ tags:
 - weblogic
 - ldap
 
+permalink: weblogic-and-active-directory-authentication
 ---
 Ok back to more serious [Weblogic](http://edocs.bea.com/wls/docs81/notes/issues.html "Known issues") posts !
 

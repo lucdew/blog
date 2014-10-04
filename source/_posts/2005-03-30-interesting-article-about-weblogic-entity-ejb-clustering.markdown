@@ -1,5 +1,6 @@
 --- 
 layout: post
+date: 2005-03-30
 title: Interesting article about Weblogic Entity EJB clustering
 wordpress_id: 122
 wordpress_url: http://www.dewavrin.info/?p=122
@@ -10,6 +11,7 @@ tags:
 - weblogic
 - ejb
 
+permalink: interesting-article-about-weblogic-entity-ejb-clustering
 ---
 See Dmitri Maximovich&#39;s [Blog](http://www.jroller.com/page/maximdim/20050330#long_term_caching_of_cmp). With very interesting articles about:
 - CMP entity Ejbs clustering behaviour regarding &#39;Optimistic concurrency&#39; strategy

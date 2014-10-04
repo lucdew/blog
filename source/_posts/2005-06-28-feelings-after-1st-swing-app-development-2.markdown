@@ -1,5 +1,6 @@
 --- 
 layout: post
+date: 2005-06-28
 title: feelings after 1st Swing app development
 wordpress_id: 206
 wordpress_url: http://www.dewavrin.info/?p=206
@@ -9,6 +10,7 @@ categories:
 tags:
 - swing
 
+permalink: feelings-after-1st-swing-app-development-2
 ---
 
 Lately I have been busy writing (partly in my spare time) my first (3 tiers) Swing app  for the company I work for. This app enables to monitor the different layers of a product we develop and sell.The product is deployed in many environments (testing, integration, QA,etc.) and in different version. We have to identify quickly what is deployed on what and sometimes monitor the different sub-components especially for pre-production and QA environments. The monitorong app has a tier on Weblogic which does all the monitoring activity and expose monitoringfunction via Webservices (and JMX) and a presentation tier which is small Swing GUI (about 10 screens).  My background in development is mostly server side based (Web and J2EE) and i consider myself as an occasional developer (I do/did mostly J2EE and system administration )

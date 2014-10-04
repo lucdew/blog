@@ -1,15 +1,13 @@
 --- 
-layout: post
 title: Ant's replaceregexp task in a maven pom file
-wordpress_id: 229
-wordpress_url: http://www.dewavrin.info/?p=229
-comments: true
+date: 2007-06-05
 categories: 
 - java
 - tech
 tags:
 - ant
 
+permalink: ants-regexp-task-in-a-maven-pom-file
 ---
 Since it can be tricky, here's how Ant's regexp task can be used in a maven pom file:
 {% codeblock lang:xml %}

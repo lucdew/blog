@@ -1,5 +1,6 @@
 --- 
 layout: post
+date: 2004-08-19
 title: Boost Eclipse performance under Windows
 wordpress_id: 134
 wordpress_url: http://www.dewavrin.info/?p=134
@@ -9,6 +10,7 @@ categories:
 tags:
 - eclipse
 
+permalink: boost-eclipse-performance-under-windows
 ---
 
 There's an excellent Eclipse plug-in to prevent Windows from swapping to disk the memoryallocated to the Eclipse's JVM.

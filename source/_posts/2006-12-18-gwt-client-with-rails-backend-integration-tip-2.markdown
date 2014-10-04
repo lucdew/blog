@@ -1,5 +1,6 @@
 --- 
 layout: post
+date: 2006-12-18
 title: Gwt client with rails backend integration tip
 wordpress_id: 188
 wordpress_url: http://www.dewavrin.info/?p=188
@@ -10,6 +11,7 @@ tags:
 - rails
 - gwt
 
+permalink: gwt-client-with-rails-backend-integration-tip-2
 ---
 <p>
 Writing a rich web interface in Java and server side code in ruby : pretty unsual isn'it ? But hey after all, web client interfaces get everyday more complex and are mix of technologies. Gwt sounds interesting since you write your complex web UI components like you'd write a Swing widget, mostly in Java. 

@@ -1,5 +1,6 @@
 --- 
 layout: post
+date: 2005-09-17
 title: Programmatic authentication in Tomcat
 wordpress_id: 111
 wordpress_url: http://www.dewavrin.info/?p=111
@@ -10,6 +11,7 @@ tags:
 - tomcat
 - weblogic
 
+permalink: programmatic-authentication-in-tomcat
 ---
  I had to programmatically authenticate a principal using the security realm defined in Tomcat. I needed to do so because I didn't want to reinvent the wheel. But in my case the J2EE container authorizations defined in the web.xml DD didn't fit well. I also had to programmatically verify that user belonged to a role and the realm API let you do that. The resources to which users were restricted are not URLs but actions and the authorizations are defined in a specific configuration file and not in the web.xml file. I didn't want to have a specific URI for each action.
 

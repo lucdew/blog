@@ -1,5 +1,6 @@
 --- 
 layout: post
+date: 2005-09-17
 title: Memory leaks hunting articles
 wordpress_id: 203
 wordpress_url: http://www.dewavrin.info/?p=203
@@ -10,6 +11,7 @@ tags:
 - weblogic
 - tuning
 
+permalink: memory-leaks-hunting-articles-2
 ---
 
 I have been busy lately and once again I will only add interesting links. These are about memory leaks hunting in the JVM. Memory leaks can be hard to spot and these articles were published while I was facing the same problems in my company. So thanks to Java's community, I have been able to quickly identify the potential origins of the leaks. 

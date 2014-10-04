@@ -1,5 +1,6 @@
 --- 
 layout: post
+date: 2005-04-11
 title: Weblogic prepared statement caching
 wordpress_id: 210
 wordpress_url: http://www.dewavrin.info/?p=210
@@ -10,6 +11,7 @@ tags:
 - weblogic
 - jdbc
 
+permalink: weblogic-prepared-statement-caching-2
 ---
 
 Another interesting [Dmitri Maximovich blog entry](http://www.jroller.com/comments/maximdim/Weblog/improving_jdbc_performance_with_statement) about enabling "prepared statements caching" (or pooling) inside Weblogic server. 

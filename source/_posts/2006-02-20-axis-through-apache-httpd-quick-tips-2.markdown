@@ -1,5 +1,6 @@
 --- 
 layout: post
+date: 2006-02-20
 title: Axis through Apache HTTPD quick tips
 wordpress_id: 197
 wordpress_url: http://www.dewavrin.info/?p=197
@@ -9,6 +10,7 @@ categories:
 tags:
 - axis
 - webservices
+permalink: axis-through-apache-httpd-quick-tips-2
 
 ---
 Here are tips when using Axis Web services through Apache:

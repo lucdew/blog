@@ -1,9 +1,6 @@
 --- 
-layout: post
 title: htmlunit kudos
-wordpress_id: 236
-wordpress_url: http://www.dewavrin.info/?p=236
-comments: true
+date: 2007-12-26
 categories: 
 - java
 - tech
@@ -11,6 +8,7 @@ tags:
 - htmlunit
 - java
 - xpath
+permalink: htmlunit-kudos
 ---
 I have been happily surprised by htmlunit. Actually, for a personal project, rewriting a rails app to Seam I tried to find a replacement of excellent Ruby library [hpricot](http://code.whytheluckystiff.net/hpricot/ "Hpricot"). I needed to perform Xpath expression on a HTML DOM tree to retrieve nodes.Well, htmlunit combined with Neko html parser and jaxen Xpath excels at just doing that. Htmlunit is also used by Canoo web testing .Here's a code snippet to retrieve all USA states on Yahoo Weather :
 

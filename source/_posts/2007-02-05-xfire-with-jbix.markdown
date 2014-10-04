@@ -1,15 +1,13 @@
 --- 
-layout: post
 title: Xfire with Jibx
-wordpress_id: 226
-wordpress_url: http://www.dewavrin.info/?p=226
-comments: true
+date: 2007-02-05
 categories: 
 - tech
 tags: 
 - jibx
 - maven
 - xfire
+permalink: xfire-with-jbix
 ---
 I uploaded on [Google code hosting](http://code.google.com/p/javaeesamples/ "Google code hosting")  an [example](http://javaeesamples.googlecode.com/files/wsbinding.tar.gz "wsbinding") of Webservices with Xfire (1.2.1) and Jibx (1.1) built with Maven2. Services are defined and accessed through a Spring application context.Have a look if you are interested in such a solution. The built server war file is for Weblogic server 8.1 but you should be able to run it in any servlet engine (>2.3).
 

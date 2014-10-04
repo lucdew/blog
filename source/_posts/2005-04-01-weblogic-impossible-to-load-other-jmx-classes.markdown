@@ -1,5 +1,6 @@
 --- 
 layout: post
+date: 2005-04-01
 title: Weblogic impossible to load other JMX  classes
 wordpress_id: 121
 wordpress_url: http://www.dewavrin.info/?p=121
@@ -10,6 +11,7 @@ tags:
 - weblogic
 - jmx
 
+permalink: weblogic-impossible-to-load-other-jmx-classes
 ---
 I have recently discovered that it not possible to use other JMX classes  (JMX 1.1 javax.management.\*)than the ones in the weblogic.jar on Weblogic 8.1. 
 Actually, I was trying to extend CruiseControl web app to offer the ability to start/resume/pauseintegration processes in the cruisecontrol daemon. The CruiseControl daemon has its own mx4j JMX agent with an embedded RMI connector (and an HTML adaptor which I didn't want to use). My webapp connects to the RMI adapator to contact the MBean server of cruisecontrol. 

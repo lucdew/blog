@@ -1,5 +1,6 @@
 --- 
 layout: post
+date: 2006-01-17
 title: 2005 review
 wordpress_id: 108
 wordpress_url: http://www.dewavrin.info/?p=108
@@ -8,6 +9,7 @@ categories:
 - java
 tags: []
 
+permalink: 2005-review
 ---
 
 I am bit late but here are some Java technos and materials that stroke me in 2005.

@@ -1,5 +1,6 @@
 --- 
 layout: post
+date: 2005-06-20
 title: Paris Air show 2005
 wordpress_id: 207
 wordpress_url: http://www.dewavrin.info/?p=207
@@ -9,6 +10,7 @@ categories:
 tags:
 - misc
 
+permalink: paris-air-show-2005-2
 ---
 
 <table>

@@ -1,5 +1,6 @@
 --- 
 layout: post
+date: 2005-12-24
 title: Article on Spring and AOP
 wordpress_id: 200
 wordpress_url: http://www.dewavrin.info/?p=200
@@ -9,6 +10,7 @@ categories:
 tags:
 - spring
 - aop
+permalink: article-on-spring-and-aop-2
 ---
 
 An excellent article on [Spring, AOP, EJBs and testing ](http://dev2dev.bea.com/pub/a/2005/12/spring-aop-with-ejb.html) has been published on dev2dev.bea.com from Eugene Kuleshov. It's intended for Spring newcomers and intermediate users. I have just read it and highly recommand it.

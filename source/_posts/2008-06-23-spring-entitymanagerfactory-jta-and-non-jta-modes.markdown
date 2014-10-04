@@ -1,9 +1,6 @@
 --- 
-layout: post
 title: Spring entityManagerFactory in jta and non-jta modes
-wordpress_id: 244
-wordpress_url: http://www.dewavrin.info/?p=244
-comments: true
+date: 2008-06-23
 categories: 
 - java
 - general
@@ -11,6 +8,7 @@ categories:
 tags: 
 - jpa
 - spring
+permalink: spring-entitymanagerfactory-jta-and-non-jta-modes
 ---
 This blog post is about using JPA with Spring in 2 contexts :
 -  production with a JTA transaction manager

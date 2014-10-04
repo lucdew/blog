@@ -1,5 +1,6 @@
 --- 
 layout: post
+date: 2006-02-28
 title: Memory leaks
 wordpress_id: 196
 wordpress_url: http://www.dewavrin.info/?p=196
@@ -10,6 +11,7 @@ tags:
 - java
 
 
+permalink: memory-leaks-2
 ---
  Crazy Bob posted on [ThreadLocal memory leaks](http://crazybob.org/2006/02/threadlocal-memory-leak.html).This type of memory leak really annoys me because I see it very often on Java EE servers and developers are not aware of it.The error is mostly annoying in development, testing environmentswhere the Java EE server is not restarted and the applicationsare just redeployed. Therefore, threads (of thread pools) are not recreated and hold references to old application classes.
 

@@ -1,5 +1,6 @@
 --- 
 layout: post
+date: 2006-06-13
 title: Spring and Lingo = Easy JMS
 wordpress_id: 190
 wordpress_url: http://www.dewavrin.info/?p=190
@@ -10,6 +11,7 @@ tags:
 - jms
 - lingo
 - spring
+permalink: spring-and-lingo-easy-jms-2
 ---
 With [Lingo](http://lingo.codehaus.org/) from codeHaus, Spring remoting can be extended to support JMS.Here's a great article on [Saniv Jivan's blog](http://www.jroller.com/page/sjivan?entry=asynchronous_calls_and_callbacks_using) that shows some of its capabilities (synchronous calls over JMS and asynchronous callbacks).
 

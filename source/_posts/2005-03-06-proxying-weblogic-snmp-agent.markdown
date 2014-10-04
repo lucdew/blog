@@ -1,5 +1,6 @@
 --- 
 layout: post
+date: 2005-03-06
 title: Proxying Weblogic SNMP Agent
 wordpress_id: 125
 wordpress_url: http://www.dewavrin.info/?p=125
@@ -10,6 +11,7 @@ tags:
 - weblogic
 - snmp
 
+permalink: proxying-weblogic-snmp-agent
 ---
  Today many middleware and back end enterprise systems embedtheir own SNMP agent (or at least send SNMP traps). SNMP agentsare polled by SNMP managers or enterprise monitoring systems likeTivoli Netview or HP Openview.
 
