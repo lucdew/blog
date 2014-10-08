@@ -14,8 +14,8 @@ language:
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
 url: http://www.dewavrin.info
 root: /
-permalink: /blog/:title/
-new_post_path: /blog/:title.html
+permalink: blog/:title/
+new_post_path: blog/:title.html
 tag_dir: tags
 archive_dir: archives
 category_dir: categories
